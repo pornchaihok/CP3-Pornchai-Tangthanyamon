@@ -1,6 +1,0 @@
-a = int(input("1st Number"))
-b = int(input("2nd Number"))
-print(f"{a} + {b} = {a + b}")
-print(f"{a} - {b} = {a - b}")
-print(f"{a} * {b} = {a * b}")
-print(f"{a} / {b} = {int(a / b)}")
